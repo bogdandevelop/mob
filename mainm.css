@@ -16,7 +16,7 @@ body{
   clear: both;
   }
   #header{
-width: 60%;
+width: 30%;
 height: 200px;
 color:rgb(255, 255, 255);
 
@@ -87,21 +87,21 @@ padding-top: 40px;
 
   #film1_cont{
     height: 2070px;
-    width: 100%;
+    width: 30%;
     background-color: #ffffff;
   }
 
 
   #film1_cont_labal{
     height: 100px;
-    width: 100%;
+    width: 30%;
     background-color: #fbb530;
   }
 
 
   #film2_cont_labal{
     height: 100px;
-    width: 100%;
+    width: 30%;
     background-color: #fbb530;
  
   }
